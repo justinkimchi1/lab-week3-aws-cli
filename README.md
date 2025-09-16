@@ -2,7 +2,7 @@
 
 ## Script References
 ### Script 1
-- 
+- https://docs.aws.amazon.com/cli/latest/reference/ec2/import-key-pair.html
 
 ### Script 2
 - https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
